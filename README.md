@@ -7,6 +7,7 @@ Usage :
 1. Left click and drag on grid to add walls.
 2. Press 'S' and left click on any cell to add starting point
 3. Press 'E' and left click on any cell to add end point
+4. Press Ctrl and scroll up or down with mouse for zoom control.
 
 The pathfinder starts when both start and end points have been set. The nodes are color coded as follows:
 1. Red    : Start node
@@ -14,3 +15,8 @@ The pathfinder starts when both start and end points have been set. The nodes ar
 3. Orange : Nodes in closed set
 4. Blue   : Nodes in open set
 5. Yellow : Shortest path from start to end.
+
+![](short.gif)
+![](long.gif)
+
+
