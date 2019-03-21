@@ -1,6 +1,6 @@
 /* Change these for default */
-final int NUM_BOX = 80;
-final int DEFAULT_BOX_SIZE = 8;
+final int NUM_BOX = 120;
+final int DEFAULT_BOX_SIZE = 640 / NUM_BOX;
 final int INVALID_BOX = -999;
 final int NUM_NEIGH = 8;
 /***********************************/
